@@ -1,4 +1,0 @@
-github
-PixelSenseEnib
-t2riou@enib.fr
-mdp: pixelsense1 (ou kubicki1?)
