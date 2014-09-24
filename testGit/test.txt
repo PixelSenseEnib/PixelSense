@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 blablablablablablabla
+=======
+Je suis un putain de test, nardine.
+
+I don't care, i'm so fancy.
+>>>>>>> 64e9b41fe822b791f77c966a947110a9981e964e
