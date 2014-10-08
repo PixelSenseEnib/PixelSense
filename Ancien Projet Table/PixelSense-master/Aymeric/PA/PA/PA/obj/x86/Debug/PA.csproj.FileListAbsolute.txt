@@ -1,0 +1,2 @@
+C:\Users\k1duchem\Desktop\PixelSense-master\Aymeric\PA\PA\PA\obj\x86\Debug\PA.csprojResolveAssemblyReference.cache
+C:\Users\k1duchem\Desktop\PixelSense-master\Aymeric\PA\PA\PA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
