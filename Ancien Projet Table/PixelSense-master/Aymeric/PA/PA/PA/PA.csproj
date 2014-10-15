@@ -129,10 +129,6 @@
       <Name>PAContent</Name>
       <XnaReferenceType>Content</XnaReferenceType>
     </ProjectReference>
-    <ProjectReference Include="D:\GIT\PixelSense\Aymeric\SurfaceLib\SurfaceLib\SurfaceLib.csproj">
-      <Project>{337F84C3-EF37-4971-B049-3F90F7707A34}</Project>
-      <Name>SurfaceLib</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\icon.png">

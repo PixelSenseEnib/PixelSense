@@ -96,6 +96,9 @@
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
+    <Reference Include="SurfaceLib">
+      <HintPath>..\..\..\SurfaceLib\SurfaceLib\bin\Debug\SurfaceLib.dll</HintPath>
+    </Reference>
     <Reference Include="System">
       <Private>False</Private>
     </Reference>
@@ -130,10 +133,6 @@
     <ProjectReference Include="..\SurfaceAppTestContent\SurfaceAppTestContent.contentproj">
       <Name>SurfaceAppTestContent</Name>
       <XnaReferenceType>Content</XnaReferenceType>
-    </ProjectReference>
-    <ProjectReference Include="C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceLib\SurfaceLib\SurfaceLib.csproj">
-      <Project>{337F84C3-EF37-4971-B049-3F90F7707A34}</Project>
-      <Name>SurfaceLib</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
