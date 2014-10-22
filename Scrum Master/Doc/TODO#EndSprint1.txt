@@ -1,0 +1,11 @@
+#TODO End Sprint 1 :
+- Envoyer à  kubicki :
+	- Release #1.1 : COmpte rendu étude exploratoire de la table en PDF
+	- Release #1.2 : Tutoriel Table PDF
+	- Release #1.3 : Tutoriel Imprimante 3D PDF
+	- Release #1.4 : Première appli table EXE + code ?
+- Envoyer à Nedelec, Lambour, Kubicki :
+	- Sprint ReviewDemo PDF
+	- Sprint Retrospective PDF
+	- Burndown chart 
+	- Kanban

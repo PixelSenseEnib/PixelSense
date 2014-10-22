@@ -5,7 +5,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurfaceAppTest", "SurfaceAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurfaceAppTestContent", "SurfaceAppTest\SurfaceAppTestContent\SurfaceAppTestContent.contentproj", "{EDE8B05D-E431-41F0-9426-E06D71C0C30F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurfaceLib", "C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceLib\SurfaceLib\SurfaceLib.csproj", "{337F84C3-EF37-4971-B049-3F90F7707A34}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurfaceLib", "..\SurfaceLib\SurfaceLib\SurfaceLib.csproj", "{337F84C3-EF37-4971-B049-3F90F7707A34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
