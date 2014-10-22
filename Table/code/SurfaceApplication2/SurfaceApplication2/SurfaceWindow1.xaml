@@ -1,0 +1,267 @@
+﻿<s:SurfaceWindow x:Class="SurfaceApplication2.SurfaceWindow1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:s="http://schemas.microsoft.com/surface/2008"
+    Title="SurfaceApplication2" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"    
+            Background="Aqua">
+
+    <Canvas Name="canvasPlateau" Width="1080"
+            Height="900" Background="White"  >
+        <Rectangle Fill="Aqua" Canvas.Top="0" Canvas.Left="900" Width="180" Height="900" Stroke="Black"></Rectangle>
+        <Label Canvas.Left="910" Width="700" Height="150" FontSize="72" >Changer de jeu
+            <Label.LayoutTransform>
+                <RotateTransform CenterX="0.5" CenterY="0.5" Angle="-90"/>
+            </Label.LayoutTransform>
+        </Label>
+        <Rectangle Name="rectangle0_0" Fill="Black" Canvas.Top="0" Canvas.Left="0" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle0_1" Fill="White" Canvas.Top="90" Canvas.Left="0" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle0_2" Fill="Black" Canvas.Top="180" Canvas.Left="0" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle0_3" Fill="White" Canvas.Top="270" Canvas.Left="0" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle0_4" Fill="Black" Canvas.Top="360" Canvas.Left="0" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle0_5" Fill="White" Canvas.Top="450" Canvas.Left="0" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle0_6" Fill="Black" Canvas.Top="540" Canvas.Left="0" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle0_7" Fill="White" Canvas.Top="630" Canvas.Left="0" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle0_8" Fill="Black" Canvas.Top="720" Canvas.Left="0" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle0_9" Fill="White" Canvas.Top="810" Canvas.Left="0" Width="90" Height="90" Stroke="Black"></Rectangle>
+
+        <Rectangle Name="rectangle1_0" Fill="White" Canvas.Top="0" Canvas.Left="90" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle1_1" Fill="Black" Canvas.Top="90" Canvas.Left="90" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle1_2" Fill="White" Canvas.Top="180" Canvas.Left="90" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle1_3" Fill="Black" Canvas.Top="270" Canvas.Left="90" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle1_4" Fill="White" Canvas.Top="360" Canvas.Left="90" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle1_5" Fill="Black" Canvas.Top="450" Canvas.Left="90" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle1_6" Fill="White" Canvas.Top="540" Canvas.Left="90" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle1_7" Fill="Black" Canvas.Top="630" Canvas.Left="90" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle1_8" Fill="White" Canvas.Top="720" Canvas.Left="90" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle1_9" Fill="Black" Canvas.Top="810" Canvas.Left="90" Width="90" Height="90" Stroke="Black"></Rectangle>
+
+        <Rectangle Name="rectangle2_0" Fill="Black" Canvas.Top="0" Canvas.Left="180" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle2_1" Fill="White" Canvas.Top="90" Canvas.Left="180" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle2_2" Fill="Black" Canvas.Top="180" Canvas.Left="180" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle2_3" Fill="White" Canvas.Top="270" Canvas.Left="180" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle2_4" Fill="Black" Canvas.Top="360" Canvas.Left="180" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle2_5" Fill="White" Canvas.Top="450" Canvas.Left="180" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle2_6" Fill="Black" Canvas.Top="540" Canvas.Left="180" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle2_7" Fill="White" Canvas.Top="630" Canvas.Left="180" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle2_8" Fill="Black" Canvas.Top="720" Canvas.Left="180" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle2_9" Fill="White" Canvas.Top="810" Canvas.Left="180" Width="90" Height="90" Stroke="Black"></Rectangle>
+
+        <Rectangle Name="rectangle3_0" Fill="White" Canvas.Top="0" Canvas.Left="270" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle3_1" Fill="Black" Canvas.Top="90" Canvas.Left="270" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle3_2" Fill="White" Canvas.Top="180" Canvas.Left="270" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle3_3" Fill="Black" Canvas.Top="270" Canvas.Left="270" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle3_4" Fill="White" Canvas.Top="360" Canvas.Left="270" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle3_5" Fill="Black" Canvas.Top="450" Canvas.Left="270" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle3_6" Fill="White" Canvas.Top="540" Canvas.Left="270" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle3_7" Fill="Black" Canvas.Top="630" Canvas.Left="270" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle3_8" Fill="White" Canvas.Top="720" Canvas.Left="270" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle3_9" Fill="Black" Canvas.Top="810" Canvas.Left="270" Width="90" Height="90" Stroke="Black"></Rectangle>
+
+        <Rectangle Name="rectangle4_0" Fill="Black" Canvas.Top="0" Canvas.Left="360" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle4_1" Fill="White" Canvas.Top="90" Canvas.Left="360" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle4_2" Fill="Black" Canvas.Top="180" Canvas.Left="360" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle4_3" Fill="White" Canvas.Top="270" Canvas.Left="360" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle4_4" Fill="Black" Canvas.Top="360" Canvas.Left="360" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle4_5" Fill="White" Canvas.Top="450" Canvas.Left="360" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle4_6" Fill="Black" Canvas.Top="540" Canvas.Left="360" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle4_7" Fill="White" Canvas.Top="630" Canvas.Left="360" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle4_8" Fill="Black" Canvas.Top="720" Canvas.Left="360" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle4_9" Fill="White" Canvas.Top="810" Canvas.Left="360" Width="90" Height="90" Stroke="Black"></Rectangle>
+
+        <Rectangle Name="rectangle5_0" Fill="White" Canvas.Top="0" Canvas.Left="450" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle5_1" Fill="Black" Canvas.Top="90" Canvas.Left="450" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle5_2" Fill="White" Canvas.Top="180" Canvas.Left="450" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle5_3" Fill="Black" Canvas.Top="270" Canvas.Left="450" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle5_4" Fill="White" Canvas.Top="360" Canvas.Left="450" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle5_5" Fill="Black" Canvas.Top="450" Canvas.Left="450" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle5_6" Fill="White" Canvas.Top="540" Canvas.Left="450" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle5_7" Fill="Black" Canvas.Top="630" Canvas.Left="450" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle5_8" Fill="White" Canvas.Top="720" Canvas.Left="450" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle5_9" Fill="Black" Canvas.Top="810" Canvas.Left="450" Width="90" Height="90" Stroke="Black"></Rectangle>
+
+        <Rectangle Name="rectangle6_0" Fill="Black" Canvas.Top="0" Canvas.Left="540" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle6_1" Fill="White" Canvas.Top="90" Canvas.Left="540" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle6_2" Fill="Black" Canvas.Top="180" Canvas.Left="540" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle6_3" Fill="White" Canvas.Top="270" Canvas.Left="540" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle6_4" Fill="Black" Canvas.Top="360" Canvas.Left="540" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle6_5" Fill="White" Canvas.Top="450" Canvas.Left="540" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle6_6" Fill="Black" Canvas.Top="540" Canvas.Left="540" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle6_7" Fill="White" Canvas.Top="630" Canvas.Left="540" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle6_8" Fill="Black" Canvas.Top="720" Canvas.Left="540" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle6_9" Fill="White" Canvas.Top="810" Canvas.Left="540" Width="90" Height="90" Stroke="Black"></Rectangle>
+
+        <Rectangle Name="rectangle7_0" Fill="White" Canvas.Top="0" Canvas.Left="630" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle7_1" Fill="Black" Canvas.Top="90" Canvas.Left="630" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle7_2" Fill="White" Canvas.Top="180" Canvas.Left="630" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle7_3" Fill="Black" Canvas.Top="270" Canvas.Left="630" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle7_4" Fill="White" Canvas.Top="360" Canvas.Left="630" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle7_5" Fill="Black" Canvas.Top="450" Canvas.Left="630" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle7_6" Fill="White" Canvas.Top="540" Canvas.Left="630" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle7_7" Fill="Black" Canvas.Top="630" Canvas.Left="630" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle7_8" Fill="White" Canvas.Top="720" Canvas.Left="630" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle7_9" Fill="Black" Canvas.Top="810" Canvas.Left="630" Width="90" Height="90" Stroke="Black"></Rectangle>
+
+        <Rectangle Name="rectangle8_0" Fill="Black" Canvas.Top="0" Canvas.Left="720" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle8_1" Fill="White" Canvas.Top="90" Canvas.Left="720" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle8_2"  Fill="Black" Canvas.Top="180" Canvas.Left="720" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle8_3" Fill="White" Canvas.Top="270" Canvas.Left="720" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle8_4" Fill="Black" Canvas.Top="360" Canvas.Left="720" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle8_5" Fill="White" Canvas.Top="450" Canvas.Left="720" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle8_6" Fill="Black" Canvas.Top="540" Canvas.Left="720" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle8_7" Fill="White" Canvas.Top="630" Canvas.Left="720" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle8_8" Fill="Black" Canvas.Top="720" Canvas.Left="720" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle8_9" Fill="White" Canvas.Top="810" Canvas.Left="720" Width="90" Height="90" Stroke="Black"></Rectangle>
+
+        <Rectangle Name="rectangle9_0" Fill="White" Canvas.Top="0" Canvas.Left="810" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle9_1" Fill="Black" Canvas.Top="90" Canvas.Left="810" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle9_2" Fill="White" Canvas.Top="180" Canvas.Left="810" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle9_3" Fill="Black" Canvas.Top="270" Canvas.Left="810" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle9_4" Fill="White" Canvas.Top="360" Canvas.Left="810" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle9_5" Fill="Black" Canvas.Top="450" Canvas.Left="810" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle9_6" Fill="White" Canvas.Top="540" Canvas.Left="810" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle9_7" Fill="Black" Canvas.Top="630" Canvas.Left="810" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle9_8" Fill="White" Canvas.Top="720" Canvas.Left="810" Width="90" Height="90" Stroke="Black"></Rectangle>
+        <Rectangle Name="rectangle9_9" Fill="Black" Canvas.Top="810" Canvas.Left="810" Width="90" Height="90" Stroke="Black"></Rectangle>
+
+        <Rectangle Name="rectangleDroite" Fill="Aqua" Canvas.Top="0" Canvas.Left="720" Width="180" Height="900" ></Rectangle>
+        <Rectangle Name="rectangleBas" Fill="Aqua" Canvas.Top="720" Canvas.Left="0" Width="900" Height="180" ></Rectangle>
+        
+        <s:TagVisualizer 
+            Name="MyTagVisualizer" 
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch"
+            Background="Transparent" 
+            Height="720" Width="720"
+            VisualizationAdded="OnVisualizationAdded"
+            VisualizationRemoved="OnVisualizationRemoved"
+            
+            
+            >
+            <s:TagVisualizer.Definitions>
+                <s:TagVisualizationDefinition Value="0x1" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="100"
+                                              MaxCount="8"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+                <s:TagVisualizationDefinition Value="0x2" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="100"
+                                              MaxCount="8"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+                <s:TagVisualizationDefinition Value="0x3" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="100"
+                                              MaxCount="8"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+                <s:TagVisualizationDefinition Value="0x4" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="100"
+                                              MaxCount="8"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+                <s:TagVisualizationDefinition Value="0x5" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="100"
+                                              MaxCount="8"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+                <s:TagVisualizationDefinition Value="0x6" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="2000"
+                                              MaxCount="16"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+            </s:TagVisualizer.Definitions>
+        </s:TagVisualizer>
+        <s:TagVisualizer 
+            Name="MyTagVisualizer2" 
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch"
+            Background="Transparent" 
+            Canvas.Top="0"
+            Canvas.Left="900"
+            Height="720" Width="180"
+            VisualizationAdded="OnVisualizationAddedd"
+            >
+            <s:TagVisualizer.Definitions>
+                <s:TagVisualizationDefinition Value="0x1" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="100"
+                                              MaxCount="4"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+                <s:TagVisualizationDefinition Value="0x2" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="100"
+                                              MaxCount="4"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+                <s:TagVisualizationDefinition Value="0x3" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="100"
+                                              MaxCount="4"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+                <s:TagVisualizationDefinition Value="0x4" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="100"
+                                              MaxCount="4"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+                <s:TagVisualizationDefinition Value="0x5" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="100"
+                                              MaxCount="4"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+                <s:TagVisualizationDefinition Value="0x6" 
+                                              Source="CameraVisualization.xaml"
+                                              LostTagTimeout="2000"
+                                              MaxCount="16"
+                                              OrientationOffsetFromTag="0"
+                                              PhysicalCenterOffsetFromTag="0.01,0.01" 
+                                              TagRemovedBehavior="Fade"
+                                              UsesTagOrientation="True"
+                                              />
+            </s:TagVisualizer.Definitions>
+        </s:TagVisualizer>
+
+    </Canvas>
+
+</s:SurfaceWindow>
