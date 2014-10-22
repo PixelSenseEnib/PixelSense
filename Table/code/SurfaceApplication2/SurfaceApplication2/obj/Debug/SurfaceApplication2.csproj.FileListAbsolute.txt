@@ -16,3 +16,20 @@ C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\Surf
 C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.exe
 C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.pdb
 C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.csprojResolveAssemblyReference.cache
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\bin\Debug\Resources\icon.png
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\bin\Debug\SurfaceApplication2.xml
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\bin\Debug\SurfaceApplication2.exe
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\bin\Debug\SurfaceApplication2.pdb
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\CameraVisualization.baml
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceWindow1.baml
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\App.baml
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\CameraVisualization.g.cs
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceWindow1.g.cs
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\App.g.cs
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2_Content.g.cs
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2_MarkupCompile.cache
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.g.resources
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.Properties.Resources.resources
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.csproj.GenerateResource.Cache
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.exe
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.pdb

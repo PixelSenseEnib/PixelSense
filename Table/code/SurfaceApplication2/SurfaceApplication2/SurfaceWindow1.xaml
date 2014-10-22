@@ -134,6 +134,7 @@
             Height="720" Width="720"
             VisualizationAdded="OnVisualizationAdded"
             VisualizationRemoved="OnVisualizationRemoved"
+            VisualizationMoved="OnVisualizationMoved"
             
             
             >
@@ -185,7 +186,7 @@
                                               />
                 <s:TagVisualizationDefinition Value="0x6" 
                                               Source="CameraVisualization.xaml"
-                                              LostTagTimeout="2000"
+                                              LostTagTimeout="100"
                                               MaxCount="16"
                                               OrientationOffsetFromTag="0"
                                               PhysicalCenterOffsetFromTag="0.01,0.01" 

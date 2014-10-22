@@ -42,6 +42,7 @@ namespace SurfaceApplication2
             AddWindowAvailabilityHandlers();
             echec = true;
 
+
             
         }
 
@@ -161,7 +162,32 @@ namespace SurfaceApplication2
         {
             //TODO: disable audio, animations here
         }
-
+        private void OnVisualizationMoved(object sender, TagVisualizerEventArgs e) {
+            
+                CameraVisualization camera = (CameraVisualization)e.TagVisualization;
+                Point centreTag = camera.Center;
+                Boolean cont2 = true;
+                for (int i = 0; i < 10; i++)
+                {
+                    if (!cont2)
+                        break;
+                    for (int j = 0; j < 10; j++)
+                    {
+                        Rectangle sq = squares[i][j];
+                        double left = Canvas.GetLeft(sq);
+                        double top = Canvas.GetTop(sq);
+                        if (left <= (centreTag.X) && (centreTag.X) <= (left + 90) && top <= centreTag.Y && (top + 90) >= centreTag.Y)
+                        {
+                            if ((left+20) <= (centreTag.X) && (centreTag.X) <= (left + 70) && (top+20) <= centreTag.Y && (top + 70) >= centreTag.Y)
+                            { OnVisualizationAdded(sender, e); } 
+                            else
+                            { OnVisualizationRemoved(sender, e); }
+                        }
+                    }
+                }
+                
+           
+        }
         private void OnVisualizationRemoved(object sender, TagVisualizerEventArgs e)
         {
             CameraVisualization camera = (CameraVisualization)e.TagVisualization;
