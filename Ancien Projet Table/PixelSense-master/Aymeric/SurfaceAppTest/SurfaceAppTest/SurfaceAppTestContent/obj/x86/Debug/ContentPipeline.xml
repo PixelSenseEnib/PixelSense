@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>imageTest.jpg</Source>
+      <Name>imageTest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\groupe1\Desktop\git\Ancien Projet Table\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTest\bin\x86\Debug\Content\imageTest.xnb</Output>
+      <Time>2014-10-08T11:13:02.6500502+02:00</Time>
+    </Item>
+    <Item>
+      <Source>raquette1.jpg</Source>
+      <Name>raquette1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\groupe1\Desktop\git\Ancien Projet Table\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTest\bin\x86\Debug\Content\raquette1.xnb</Output>
+      <Time>2014-10-08T11:13:02.6500502+02:00</Time>
+    </Item>
+    <Item>
+      <Source>raquette2.jpg</Source>
+      <Name>raquette2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\groupe1\Desktop\git\Ancien Projet Table\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTest\bin\x86\Debug\Content\raquette2.xnb</Output>
+      <Time>2014-10-08T11:13:02.6500502+02:00</Time>
+    </Item>
+    <Item>
+      <Source>paletGame.jpg</Source>
+      <Name>paletGame</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\groupe1\Desktop\git\Ancien Projet Table\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTest\bin\x86\Debug\Content\paletGame.xnb</Output>
+      <Time>2014-10-08T11:13:02.6500502+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bahhhhh.mp3</Source>
+      <Name>bahhhhh</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\groupe1\Desktop\git\Ancien Projet Table\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTest\bin\x86\Debug\Content\bahhhhh.xnb</Output>
+      <Time>2014-10-08T11:13:02.6500502+02:00</Time>
+    </Item>
+    <Item>
+      <Source>MaPolice.spritefont</Source>
+      <Name>MaPolice</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\groupe1\Desktop\git\Ancien Projet Table\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTest\bin\x86\Debug\Content\MaPolice.xnb</Output>
+      <Time>2014-10-08T11:13:02.6500502+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\groupe1\Desktop\git\Ancien Projet Table\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTestContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\groupe1\Desktop\git\Ancien Projet Table\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTest\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\groupe1\Desktop\git\Ancien Projet Table\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTestContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\groupe1\Desktop\git\Ancien Projet Table\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTest\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-03-12T16:31:40.8223268+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
