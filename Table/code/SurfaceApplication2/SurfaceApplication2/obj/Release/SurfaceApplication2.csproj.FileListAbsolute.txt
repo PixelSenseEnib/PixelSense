@@ -1,0 +1,17 @@
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\bin\Release\Resources\icon.png
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\bin\Release\SurfaceApplication2.xml
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\bin\Release\SurfaceApplication2.exe
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\bin\Release\SurfaceApplication2.pdb
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\CameraVisualization.baml
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\SurfaceWindow1.baml
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\App.baml
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\CameraVisualization.g.cs
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\SurfaceWindow1.g.cs
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\App.g.cs
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\SurfaceApplication2_Content.g.cs
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\SurfaceApplication2_MarkupCompile.cache
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\SurfaceApplication2.g.resources
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\SurfaceApplication2.Properties.Resources.resources
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\SurfaceApplication2.csproj.GenerateResource.Cache
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\SurfaceApplication2.exe
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication2\SurfaceApplication2\obj\Release\SurfaceApplication2.pdb
