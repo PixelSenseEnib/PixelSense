@@ -1,0 +1,24 @@
+
+private Dictionary<byte,long> dicTagValueTime = new Dictionary<int,float>();
+
+long milliseconds;
+long millisecondsPassed;
+
+Dans OnVisualizationAdded:
+
+
+
+	milliseconds = DateTime.Now.Ticks / TimeSpan.TicksPerMillisecond;
+	if(dicTagValueTime.ContainsKey(/*tagValue*/)){
+		dicTagValueTime.Add(/*tagValue*/,milliseconds);
+		}
+	else
+		dicTagValueTime[/*tagValue*/]= milliseconds ;
+
+
+Dans OnVisualizationRemoved:
+
+	millisecondsPassed = DateTime.Now.Ticks / TimeSpan.TicksPerMillisecond;
+	if(dicTagValueTime[/*tagValue*/] == millisecondsPassed - 5000 ){
+		//changed color of the cell to white
+	}
