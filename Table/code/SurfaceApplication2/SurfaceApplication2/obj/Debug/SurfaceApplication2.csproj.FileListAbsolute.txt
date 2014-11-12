@@ -33,3 +33,4 @@ C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceAppli
 C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.csproj.GenerateResource.Cache
 C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.exe
 C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.pdb
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication2\SurfaceApplication2\obj\Debug\SurfaceApplication2.csprojResolveAssemblyReference.cache
