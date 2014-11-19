@@ -70,7 +70,7 @@ namespace SurfaceApplication2
         }
         private void InitializeDefinitions()
         {
-           
+            TagVisualizer myTagVisualizer = new TagVisualizer();
             for (byte k = 1; k <= 5; k++)
             {
                 TagVisualizationDefinition tagDef =
