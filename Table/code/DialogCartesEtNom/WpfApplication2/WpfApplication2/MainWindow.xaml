@@ -1,0 +1,11 @@
+﻿<Window x:Class="WpfApplication2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="InputDialogAppSample" Height="150" Width="300">
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock>Hello, world. My name is:</TextBlock>
+        <TextBlock Name="lblName" Margin="0,10" TextAlignment="Center" FontWeight="Bold">[No name entered]</TextBlock>
+        <Button Name="btnEnterName" Click="btnEnterName_Click">Enter name...</Button>
+        <Button Name="btnEnterCards" Click="btnEnterCards_Click">Enter nbr cards...</Button>
+    </StackPanel>
+</Window>
