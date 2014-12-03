@@ -1,0 +1,35 @@
+﻿<s:SurfaceWindow x:Class="PA_WPF.SurfaceWindow1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:s="http://schemas.microsoft.com/surface/2008"
+    Title="PA_WPF"
+    >
+    <Window.Resources>
+        <BitmapImage x:Key="backgroundBrush"
+                     UriSource="Resources/aircraftCarrier.png"/>
+    </Window.Resources>
+    <Window.Width>
+        <Binding Source="{StaticResource backgroundBrush}" Path="PixelWidth"/>
+    </Window.Width>
+    <Window.Height>
+        <Binding Source="{StaticResource backgroundBrush}" Path="PixelHeight"/>
+    </Window.Height>
+    <Window.Background>
+        <ImageBrush x:Name="imageBrush"
+                    ImageSource="{StaticResource backgroundBrush}"></ImageBrush>
+    </Window.Background>
+    <Grid>
+
+        <s:TagVisualizer 
+            Name="MyTagVisualizer" 
+            VerticalAlignment="Stretch"
+            HorizontalAlignment="Stretch"
+            VisualizationAdded="OnVisualizationAdded"
+            VisualizationRemoved="OnVisualizationRemoved"
+            VisualizationMoved="OnVisualizationMoved" Margin="-30,0,30,0">
+
+        </s:TagVisualizer>
+
+    </Grid>
+
+</s:SurfaceWindow>
