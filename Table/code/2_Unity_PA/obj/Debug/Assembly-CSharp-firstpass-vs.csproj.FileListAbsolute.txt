@@ -1,0 +1,13 @@
+C:\Users\k1duchem\Documents\porteavion_test\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\k1duchem\Documents\porteavion_test\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\k1duchem\Documents\porteavion_test\Temp\bin\Debug\MiddleVR_dotNet.dll
+C:\Users\k1duchem\Documents\porteavion_test\Temp\bin\Debug\MiddleVR_Unity3D.dll
+C:\Users\k1duchem\Documents\porteavion_test\Temp\bin\Debug\UnityEditor.dll
+C:\Users\k1duchem\Documents\porteavion_test\Temp\bin\Debug\UnityEngine.dll
+C:\Users\k1duchem\Documents\porteavion_test\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\k1duchem\Documents\porteavion_test\Temp\bin\Debug\nunit.framework.dll
+C:\Users\k1duchem\Documents\porteavion_test\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\k1duchem\Documents\porteavion_test\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\k1duchem\Documents\porteavion_test\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\k1duchem\Documents\porteavion_test\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\k1duchem\Documents\porteavion_test\obj\Debug\Assembly-CSharp-firstpass.pdb
