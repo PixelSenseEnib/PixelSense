@@ -1,0 +1,5 @@
+C:\Users\k1duchem\Desktop\Aymeric\SurfaceLib\SurfaceLib\bin\Debug\SurfaceLib.dll
+C:\Users\k1duchem\Desktop\Aymeric\SurfaceLib\SurfaceLib\bin\Debug\SurfaceLib.pdb
+C:\Users\k1duchem\Desktop\Aymeric\SurfaceLib\SurfaceLib\obj\Debug\SurfaceLib.csprojResolveAssemblyReference.cache
+C:\Users\k1duchem\Desktop\Aymeric\SurfaceLib\SurfaceLib\obj\Debug\SurfaceLib.dll
+C:\Users\k1duchem\Desktop\Aymeric\SurfaceLib\SurfaceLib\obj\Debug\SurfaceLib.pdb

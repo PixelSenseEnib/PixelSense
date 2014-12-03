@@ -1,0 +1,2 @@
+C:\Users\k1duchem\Desktop\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTest\obj\x86\Debug\SurfaceAppTest.csprojResolveAssemblyReference.cache
+C:\Users\k1duchem\Desktop\PixelSense-master\Aymeric\SurfaceAppTest\SurfaceAppTest\SurfaceAppTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
