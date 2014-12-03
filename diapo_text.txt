@@ -1,0 +1,71 @@
+INTRO:
+
+VB,FL,TR, tous scrum master 1 fois dont 2 fois 1.
+-faire un tuto pour imprimer un objet en 3d 
+-faire un tuto pour implémenter la reconnaissance d'objet sur la table
+-créer un démonstrateur pour qu'un avion créer par l'imprimante soit reconnu par la table et
+apparaisse dans un monde virtuel.
+US : d'abord les etudes exploratoires de la table et de l'imprimante puis création des tutoriels et enfin implémentation du
+démonstrateur
+
+AHNDVP:
+
+client externes jamais venu ( jamais )
+
+pas de compétences particuliere sur les technologies utilisées mais acquises ( en partie )
+
+ 
+nos user story pas equilibrées en terme d'importance des taches.
+(la 1ere trés courte , seulement 2 taches. Certaine en ont 7 qui sont beaucoup plus longue en terme d'heure,
+ce qui ce justifie par le contenu. L'US1 étant la mise en place de l'envirronnement de travil et la 7 qui est
+de créer une appli de toutes pieces )
+
+Ajout d'une user story en cours ( jeu 42 cartes )
+( commande du CERV, le but était de faire une application pour approfondir nos connaissances 
+sur la table et tester sa stabilité,l' optimiser ) 
+
+
+Dans le sprint 0, les taches ont était mal défini ( plusieurs taches de plusieurs user story prises, plusieur US entamé sans etre fini )
+
+Les user story sont bien ciblés, les taches sont bien regroupés dans celles-ci.
+(aucune taches ne déborde du theme de l'US, dans l'etude exploratoire de l'imprimante, on n'imprime pas)
+
+Certaine taches mal défini ( taches trop longue ? Certaine trop courte. Lié au manque de connaissances durant la planification des taches )
+
+c#, .net , blender, preform
+
+
+--- Retour des Pratiques Scrum :
+
+Rituels :
+	Daily meeting au début de chaque journée avec Gâteaux 
+	Idem avec Kubicki ensuite ( sans les gateaux )
+	Respect strict des horaires (8h05 - 11h45; 13h30 - 15h45)
+Bonne rigueur sur le daily scrum, respect du time boxing. Permis une
+bonne organisation et répartition des taches sur la journée.
+Fin de sprint : sprint review et retrospective fait le soir meme de la fin du sprint et
+début de l'autre sprint avec kubicki. ( recul comment veux tu)
+Permet de commencer le sprint en gardant bien en tete les erreurs de l'ancien mais z'aussi les bons trucs.
+
+Pas de daily scrum pour le sprint0 mais on en a fait.
+Pas envoyé de release au sprint0, ce qui ne s'est jamais reproduis.
+Pas fait le product backlog au sprint0.
+
+Projet plus organisé grace aux pratiques scrum, découpage des taches intélligents.
+Permettant des parallélisme entre celles-ci. Personne n'a fait des choses qui avaient deja etait faite
+donc gain de temps .
+
+Le kanban etait mis a jour au fil des taches finis. Le burndown lui, a la fin de la journée.
+Il permet une bonne visualisation du travail exécuté et effectué et bien sur, ce qu'il reste a faire.
+
+CONSLUSION
+-2 tuto : comment imprimé un objet 3d et comment implémenter la reconnaisance d'objet par la table.
+-1 démonstrateur ( voir dans la démo )
+-1 appli 42 cartes ( voir dans la démo )
+Permet de bien s'organisé et de voir ce qu'il y a faire dans le projet.
+Permet aussi de ne pas s'eparpillé. Toutes les taches définis a l'avance.
+Des taches ne peuve pas forcement etre planifié pendant le product backlog, donc il faut les rajouté a d'autre taches
+ou dans une future US.
+Au début c'est compliqué d'évaluer le temps des taches etc..
+On a appris a utilisé des langages de programmation, on a acquis des nouvelles compétences en plus d'avoir
+livré des releases.
