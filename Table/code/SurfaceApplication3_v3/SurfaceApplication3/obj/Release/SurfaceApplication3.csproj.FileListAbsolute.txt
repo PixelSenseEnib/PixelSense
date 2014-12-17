@@ -20,3 +20,47 @@ C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication3\Surf
 C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication3\SurfaceApplication3\obj\Release\DialogName.g.cs
 C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication3\SurfaceApplication3\obj\Release\DialogNumber.g.cs
 C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\SurfaceApplication3\SurfaceApplication3\obj\Release\SurfaceApplication3.csprojResolveAssemblyReference.cache
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.exe
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.pdb
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\bin\Release\Resources\icon.png
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\bin\Release\SurfaceApplication3.xml
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\bin\Release\SurfaceApplication3.exe
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\bin\Release\SurfaceApplication3.pdb
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.csprojResolveAssemblyReference.cache
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\DialogName.baml
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\DialogNumber.baml
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceWindow1.baml
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\TagVisualization1.baml
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\App.baml
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\DialogName.g.cs
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\DialogNumber.g.cs
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceWindow1.g.cs
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\TagVisualization1.g.cs
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\App.g.cs
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3_Content.g.cs
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3_MarkupCompile.cache
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.g.resources
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.Properties.Resources.resources
+C:\Users\groupe1\Desktop\git\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.csproj.GenerateResource.Cache
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.exe
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.pdb
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\bin\Release\Resources\icon.png
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\bin\Release\SurfaceApplication3.xml
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\bin\Release\SurfaceApplication3.exe
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\bin\Release\SurfaceApplication3.pdb
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.csprojResolveAssemblyReference.cache
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\DialogName.baml
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\DialogNumber.baml
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceWindow1.baml
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\TagVisualization1.baml
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\App.baml
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\DialogName.g.cs
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\DialogNumber.g.cs
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceWindow1.g.cs
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\TagVisualization1.g.cs
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\App.g.cs
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3_Content.g.cs
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3_MarkupCompile.cache
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.g.resources
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.Properties.Resources.resources
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\SurfaceApplication3_v3\SurfaceApplication3\obj\Release\SurfaceApplication3.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\bin\Release\PA_PixelSense.xml
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\bin\Release\PA_PixelSense.exe
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\bin\Release\PA_PixelSense.pdb
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\SurfaceWindowAircraftCarrier.baml
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PlaneTagVisualization.baml
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\App.baml
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\SurfaceWindowAircraftCarrier.g.cs
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PlaneTagVisualization.g.cs
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\App.g.cs
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PA_PixelSense_Content.g.cs
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PA_PixelSense_MarkupCompile.cache
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PA_PixelSense.g.resources
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PA_PixelSense.Properties.Resources.resources
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PA_PixelSense.csproj.GenerateResource.Cache
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PA_PixelSense.exe
+C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PA_PixelSense.pdb

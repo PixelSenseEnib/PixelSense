@@ -10,6 +10,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.ComponentModel;
 
 namespace SurfaceApplication3
 {
@@ -21,9 +22,11 @@ namespace SurfaceApplication3
                 public DialogNumber()
                 {
                         InitializeComponent();
-                        lblQuestion.Content = "Entrez un nombre entre 2 et 42 :";
+                        lblQuestion.Content = "Entrez un nombre entre 1 et 42 :";
                         txtAnswer.Text = "42";
                         lblErreur.Content = "";
+                        this.WindowStyle = WindowStyle.None;
+                    
                         
                 }
 
@@ -33,8 +36,8 @@ namespace SurfaceApplication3
                         bool isNumeric = int.TryParse(txtAnswer.Text, out n);
                         if (isNumeric)
                         {
-                            if (n > 42 || n < 2)
-                                lblErreur.Content = "Un nombre ENTRE 2 et 42...";
+                            if (n > 42 || n < 1)
+                                lblErreur.Content = "Un nombre ENTRE 1 et 42...";
                             else
                                 this.DialogResult = true;
                         }
@@ -52,6 +55,11 @@ namespace SurfaceApplication3
                 public string Answer
                 {
                         get { return txtAnswer.Text; }
+                }
+
+                void DataWindow_Closing(object sender, CancelEventArgs e)
+                {
+                    Application.Current.Shutdown();
                 }
         }
     }
