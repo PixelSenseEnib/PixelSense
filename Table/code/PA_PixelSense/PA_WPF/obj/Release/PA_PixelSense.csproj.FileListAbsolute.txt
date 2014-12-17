@@ -14,3 +14,5 @@ C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Releas
 C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PA_PixelSense.csproj.GenerateResource.Cache
 C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PA_PixelSense.exe
 C:\Users\k1duchem\Documents\Visual Studio 2010\Projects\PA_WPF\PA_WPF\obj\Release\PA_PixelSense.pdb
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\PA_PixelSense\PA_WPF\obj\Release\PA_PixelSense.exe
+C:\Users\k1duchem\Desktop\PixelSense\Table\code\PA_PixelSense\PA_WPF\obj\Release\PA_PixelSense.pdb
