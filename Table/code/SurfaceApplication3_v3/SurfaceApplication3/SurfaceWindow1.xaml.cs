@@ -107,8 +107,8 @@ namespace SurfaceApplication3
             DialogNumber inputDialog2 = new DialogNumber();
             if (inputDialog2.ShowDialog() == true)
             {
-
                 card = inputDialog2.Answer;
+
             }
             currentSerie = 1;
 
