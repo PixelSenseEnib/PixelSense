@@ -1,0 +1,24 @@
+﻿<s:TagVisualization x:Class="PA_PixelSense.PlaneTagVisualization"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:s="http://schemas.microsoft.com/surface/2008"
+    Loaded="PlaneTagVisualization_Loaded">
+    <Grid>
+        <Grid.Resources>
+            <BitmapImage x:Key="backgroundBrush"
+                     UriSource="Resources/plane.png"
+                         DecodePixelHeight="180"
+                         DecodePixelWidth="112"></BitmapImage>
+        </Grid.Resources>
+        <Grid.Width>
+            <Binding Source="{StaticResource backgroundBrush}" Path="PixelWidth"/>
+        </Grid.Width>
+        <Grid.Height>
+            <Binding Source="{StaticResource backgroundBrush}" Path="PixelHeight"/>
+        </Grid.Height>
+        <Grid.Background>
+            <ImageBrush x:Name="imageBrush"
+                    ImageSource="{StaticResource backgroundBrush}"/>
+        </Grid.Background>
+    </Grid>
+</s:TagVisualization>
