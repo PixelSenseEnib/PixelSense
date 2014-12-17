@@ -10,6 +10,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.ComponentModel;
 
 namespace SurfaceApplication3
 {
@@ -24,6 +25,7 @@ namespace SurfaceApplication3
                         lblQuestion.Content = "Entrez votre nom";
                         txtAnswer.Text = "Sebastien Kubicki";
                         lblErreur.Content = "";
+                        this.WindowStyle = WindowStyle.None;
                 }
 
                 private void btnDialogOk_Click(object sender, RoutedEventArgs e)
@@ -46,6 +48,7 @@ namespace SurfaceApplication3
                 {
                         get { return txtAnswer.Text; }
                 }
+
         }
     }
 
